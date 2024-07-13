@@ -1,11 +1,23 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Features
+Transcribing: Convert speech to text with ease.
+Fast Refresh: Utilizes Vite's HMR for a smooth development experience.
 
-Currently, two official plugins are available:
+Technologies Used
+React: Frontend framework for building user interfaces
+Vite: Next-generation frontend tooling
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This project uses the following official plugins:
+
+@vitejs/plugin-react: Uses Babel for Fast Refresh.
+@vitejs/plugin-react-swc: Uses SWC for Fast Refresh.
+
+You can access this by :
+git clone https://github.com/your-username/transcribing-app.git
+cd transcribing-app
+npm install
+npm run dev (Based on vite)
 
 ![Tapp1](https://github.com/Shivam-2309/Transcribing-App/assets/116469216/76fe8179-0f92-4dcc-8bb5-26fc3126641d)
 ![Tapp2](https://github.com/Shivam-2309/Transcribing-App/assets/116469216/b006a462-9e16-4beb-8132-18fac7756e69)
